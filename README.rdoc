@@ -1,0 +1,10 @@
+== README
+
+This is a basic User/Post/Comment Model using Rails.  The model associations are set up to represnt a basic 
+Reddit like data base.
+
+Nothing about it is functional, except in rails console. Where simple commands can be entered to generate 
+database entries.
+
+A Odin Project exercise.
+
