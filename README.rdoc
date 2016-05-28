@@ -6,5 +6,7 @@ Reddit like data base.
 Nothing about it is functional, except in rails console. Where simple commands can be entered to generate 
 database entries.
 
-A Odin Project exercise.
+There are no controllers or views for this excercise.  
+
+An Odin Project exercise.
 
